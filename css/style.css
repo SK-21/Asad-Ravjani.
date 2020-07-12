@@ -474,9 +474,9 @@ nav.navbar {
   transition: all .5s ease; 
 background-color: #000;}
   nav.navbar .logo {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 800;
-    text-transform: uppercase;
+    text-transform: capitalize;
     letter-spacing: 1px;
     color: #fff;
     font-family: 'Montserrat', sans-serif; }
@@ -485,12 +485,12 @@ background-color: #000;}
     nav.navbar .navbar-toggler .navbar-toggler-icon {
       background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); }
   nav.navbar .nav-item {
-    font-size: 15px;
+    font-size: 13px;
     font-weight: 400;
     padding-right: 15px;
     padding-left: 15px;
     color: #fff;
-    text-transform: uppercase; }
+    text-transform:capitalize ; }
     nav.navbar .nav-item:first-child {
       padding-left: 0; }
     nav.navbar .nav-item:last-child {
