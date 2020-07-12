@@ -33,7 +33,9 @@ width:100%;
 z-index:0;
 }
 
-
+.item{
+  padding-top:3.3rem;
+}
 
 
 /*********top headline end**********/
