@@ -156,7 +156,12 @@ footer.contact-info .social-icons {
   
   .portfolio-description p,
   .portfolio-long p {
-    text-align: left;
+    text-align: justify;
+    padding:0.8rem;
+  }
+  
+  .portfolio-description h4{
+    text-align:center;
   }
   
   
